@@ -86,3 +86,22 @@ section {
     background-color: #1e90ff;
     border: 2px dashed black;
 }
+
+.content-section {
+    flex-grow: 1;
+    background-color: pink;
+    border: 2px dashed black;
+}
+
+.large-img-section {
+    background-color: green;
+    border: 2px dashed black;
+    margin: auto;
+    height: 900px;
+    width: 1200px;
+}
+
+.fourth .gray {
+    background-color: #d3d3d3;
+    max-height: max-content;
+}
