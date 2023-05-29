@@ -42,3 +42,19 @@ nav {
     border-left: 3px dashed black;
     padding: 10px;
 }
+
+.title-container {
+    background-color: #00008b;
+    max-height: max-content;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-bottom: 3px solid #add8e6;
+}
+
+.banner {
+    width: 900px;
+    height: 400px;
+    background-color: #ee82ee;
+    margin: auto;
+    border: 2px dashed black;
+}
