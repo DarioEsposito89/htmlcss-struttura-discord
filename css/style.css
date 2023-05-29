@@ -58,3 +58,31 @@ nav {
     margin: auto;
     border: 2px dashed black;
 }
+
+section {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    max-height: max-content;
+}
+
+.white {
+    background-color: white;
+}
+
+.gray {
+    background-color: #d3d3d3;
+}
+
+.section-container {
+    display: flex;
+    height: 500px;
+    width: 1200px;
+    margin: auto;
+
+}
+
+.img-section {
+    flex-grow: 2;
+    background-color: #1e90ff;
+    border: 2px dashed black;
+}
